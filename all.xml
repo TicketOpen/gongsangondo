@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 05:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 17:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WEAVE.WAVE 티켓예매 western kite x onthedal 웨스턴 카잇 x 온더달 2021.11.27 토 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[87 DANCE X BAND NAH팔칠댄스 X 나상현씨밴드 티켓 예매2021.03.13 토 PM 6:30 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1682&amp;cate_no=55&amp;display_group=1</link>
@@ -134,14 +142,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WEAVE.WAVE 티켓예매 western kite x onthedal 웨스턴 카잇 x 온더달 2021.11.27 토 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[​SERIAL POST-ROCK #2 티켓예매​데이드림x코토바x사막꽃2020.9.19 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
@@ -768,12 +768,12 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[폴립 POLYP 3rd EP ‘The Cinema’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1816&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1816&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/013f7cfb89b7d34fcca379cbe144f273.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나상현씨밴드 BAND NAH 정규 2집 ‘2021’ 2CD/음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1818&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1818&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sun, 21 Nov 2021 17:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[25,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/5d7965ddbb1cec0b7a81ceda18c8951a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
