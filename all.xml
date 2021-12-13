@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 17:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,14 +472,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/2fcbc5df664d610a0b8b724eeb10457c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[{ 2재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ (CD + POSTER 합본) (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 17:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[35,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/a74ce3accb1bad7ed1cd4763938f9ed7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안다영 Dayoung Ahn ‘ANTIHERO’ 파노라마 폴딩 포스터 POSTER (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</guid>
@@ -774,6 +766,14 @@
             <pubDate>Mon, 13 Dec 2021 05:37:52 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/7ad984731967a183940544c125bcbb89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Dec 2021 17:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
