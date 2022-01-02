@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 17:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sun, 02 Jan 2022 17:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[45,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/7cac76b650317cacb5c01ea20af8a28d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 : 우리 티켓예매정규1집 '우리' 발매기념 공연guest. 키라라2019.6.8 토 PM 8:00]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201806/821_shop1_15282939392392.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​MONOTHEISM inner 티켓예매guest. Modsdive / Pakk2018.6.2 토 PM 7:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=787&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=787&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201804/787_shop1_471325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
