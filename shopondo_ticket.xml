@@ -4,9 +4,17 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 온도 티켓예매 화분 & 겨울에서봄 2022.01.29 토 PM 6:30]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1848&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1848&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Jan 2022 17:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2740bae7cac792e51b747e2cc14e8e46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[87 DANCE X BAND NAH팔칠댄스 X 나상현씨밴드 티켓 예매2021.03.13 토 PM 6:30]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1682&amp;cate_no=55&amp;display_group=1</link>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201806/821_shop1_15282939392392.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​MONOTHEISM inner 티켓예매guest. Modsdive / Pakk2018.6.2 토 PM 7:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=787&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=787&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jan 2022 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201804/787_shop1_471325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
