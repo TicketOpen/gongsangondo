@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:40:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 17:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 15 Jan 2022 17:46:06 GMT</pubDate>
             <content:encoded><![CDATA[35,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2740bae7cac792e51b747e2cc14e8e46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Jan 2022 17:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[45,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/7cac76b650317cacb5c01ea20af8a28d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[87 DANCE X BAND NAH팔칠댄스 X 나상현씨밴드 티켓 예매2021.03.13 토 PM 6:30]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201806/833_shop1_15296060306569.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​내가 만든 도시 티켓예매​최성호 특이점 단독공연2018.6.15 금 PM 8:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=821&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=821&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201806/821_shop1_15282939392392.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
