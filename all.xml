@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 17:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sat, 15 Jan 2022 17:46:06 GMT</pubDate>
             <content:encoded><![CDATA[35,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2740bae7cac792e51b747e2cc14e8e46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Jan 2022 17:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[45,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/7cac76b650317cacb5c01ea20af8a28d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[87 DANCE X BAND NAH팔칠댄스 X 나상현씨밴드 티켓 예매2021.03.13 토 PM 6:30 (공상온도 스토어 ─ 티켓)]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Jan 2022 17:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[45,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2b7307a7550e607dc83b6d6d20eda10b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WEAVE.WAVE 티켓예매 western kite x onthedal 웨스턴 카잇 x 온더달 2021.11.27 토 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
