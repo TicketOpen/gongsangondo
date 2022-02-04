@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DAYDREAMERS 공상가들 #18 티켓예매 하헌진 x 숨비 2022.02.26 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1854&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1854&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Fri, 04 Feb 2022 17:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[40,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202202/fb16abd6751172da6be0a614aa800639.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 온도 티켓예매 화분 & 겨울에서봄 2022.01.29 토 PM 6:30 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1848&amp;cate_no=55&amp;display_group=1</link>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201806/834_shop1_15298457532825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​DAYDREAMERS 공상가들 #15 티켓예매​미씽루씰x오팔x오프이2018.7.14 토 PM 7:30 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=833&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=833&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201806/833_shop1_15296060306569.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 BAND NAH 정규 2집 ‘2021’ 2CD/음반 (공상온도 스토어 ─ 음반)]]></title>
