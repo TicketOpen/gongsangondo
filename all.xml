@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 17:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/30b9516ebe8b44b3aa58528ed9617c6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Youth from firework *Seoul 티켓예매 Dabda x Soumbalgwang 다브다 x 소음발광 2022.07.09 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[45,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MOONSHIP JOURNEY 예매마감/현매가능 WACKIDS w. TENGGER, Seed Le Moor 2022.06.26 일 / door open 16:00 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1907&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1907&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Sun, 12 Jun 2022 17:37:44 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/8d62f5c9986600088fdfc0d312a58c55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth from firework *Seoul 티켓예매 Dabda x Soumbalgwang 다브다 x 소음발광 2022.07.09 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Jun 2022 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DAYDREAMERS 공상가들 #18 예매마감/현매가능 하헌진 x 숨비 예매마감/현매가능  2022.02.26 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
