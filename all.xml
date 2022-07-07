@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 12 Jun 2022 17:37:44 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/8d62f5c9986600088fdfc0d312a58c55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Youth from firework *Seoul 티켓예매 Dabda x Soumbalgwang 다브다 x 소음발광 2022.07.09 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Jun 2022 17:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[45,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DAYDREAMERS 공상가들 #18 예매마감/현매가능 하헌진 x 숨비 예매마감/현매가능  2022.02.26 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
@@ -182,6 +174,14 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth from firework *Seoul 티켓예매 Dabda x Soumbalgwang 다브다 x 소음발광 2022.07.09 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Jun 2022 17:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[45,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
@@ -752,6 +752,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Jul 2022 17:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/e2d8551233d8a247b76ba5552363f7f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 윌리엄즈 The Williams Love Child  CD음반 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 06 Jun 2022 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초현(Chohyun) single 카드앨범 ‘Last.Summer.’ (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=958&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=958&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[5,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201811/5977f840ccdaee0bf10dbe099358dc96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
