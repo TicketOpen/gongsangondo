@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 17:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전유음무專有陰霧 티켓예매 장명선 x 이아직 x 기나이직 x 피아노 슈게이저 2022.08.20 토 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[25,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/a7763c604b14598cf131466c579da4c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 : 우리 티켓예매정규1집 '우리' 발매기념 공연guest. 키라라2019.6.8 토 PM 8:00 (공상온도 스토어 ─ 티켓)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201902/3c30baeaf773740092204d358226814a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOME 티켓예매사뮈 솔로 콘서트 guest. 이능룡2019.1.27 일 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=991&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=991&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201901/cca97d8ebd9cad9dd7a83d4c45a9f4e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GLDN x PAKK x US​:​WE 스플릿 앨범 ‘「玖 / jiǔ」: 3-way split’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
