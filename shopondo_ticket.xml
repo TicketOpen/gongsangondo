@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 17:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Jul 2022 17:44:11 GMT</pubDate>
             <content:encoded><![CDATA[25,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/a7763c604b14598cf131466c579da4c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJing Party 도모도모 무도회 티켓예매 SOICHI YAMAMOTO x Play that music louder Onegai 원우심슨 x NayAna x 영웅대중 2022.08.21 일 / door open 14:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1926&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1926&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 17:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[11,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/76bc0e6f0a391fc008839a46efae2adc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Youth from firework *Busan 티켓예매 Soumbalgwang x Dabda 소음발광 x 다브다 2022.07.17 일 PM 5:00]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[25,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201903/1dd289d5f7e73e2ea57201b5b9ac7fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​우연과 필연 티켓예매​최성호 특이점 단독공연2019.03.13 수 PM 8:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1007&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1007&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201902/3c30baeaf773740092204d358226814a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
