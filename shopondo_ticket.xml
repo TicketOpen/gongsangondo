@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,12 +184,20 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[(1차) 합주하는 날 티켓예매 전자양 단독공연 2022.9.3 토 16:00]]></title>
+            <title><![CDATA[(2회차) 합주하는 날 티켓예매 전자양 단독공연 2022.9.3 토 20:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1928&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1928&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Aug 2022 17:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/75874cdf512779ffb79dc799a8c94f9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(1회차) 합주하는 날 티켓예매 전자양 단독공연 2022.9.3 토 16:00]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1927&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1927&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Tue, 09 Aug 2022 17:42:26 GMT</pubDate>
             <content:encoded><![CDATA[35,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/98a66d342419314c600a378787719c23.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/78d890fddf057331b7dbda1b8f1aa22e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 : 우리 티켓예매정규1집 '우리' 발매기념 공연guest. 키라라2019.6.8 토 PM 8:00]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201906/63fbf72251cda994d6775d76509f2dcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​요즘 나의 소확행 티켓예매​최성호 특이점 단독공연2019.05.23 목 PM 8:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1031&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1031&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/7820ebb35bb8a00efb72478b8eb379d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
