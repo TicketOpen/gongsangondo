@@ -4,17 +4,9 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 05:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 17:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전유음무專有陰霧 티켓예매 장명선 x 이아직 x 기나이직 x 피아노 슈게이저 2022.08.20 토 PM 7:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Jul 2022 17:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[25,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/a7763c604b14598cf131466c579da4c2.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[DJing Party 도모도모 무도회 티켓예매 SOICHI YAMAMOTO x Play that music louder Onegai 원우심슨 x NayAna x 영웅대중 2022.08.21 일 / door open 14:00]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1926&amp;cate_no=55&amp;display_group=1</link>
@@ -206,6 +198,14 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전유음무專有陰霧 티켓예매 장명선 x 이아직 x 기나이직 x 피아노 슈게이저 2022.08.20 토 PM 7:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 17:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[25,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/a7763c604b14598cf131466c579da4c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Youth from firework *Seoul 티켓예매 Dabda x Soumbalgwang 다브다 x 소음발광 2022.07.09 토 PM 6:00]]></title>
