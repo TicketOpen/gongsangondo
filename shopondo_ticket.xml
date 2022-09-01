@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 17:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 09 Aug 2022 17:42:26 GMT</pubDate>
             <content:encoded><![CDATA[35,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/78d890fddf057331b7dbda1b8f1aa22e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(2회차) 합주하는 날 티켓예매 전자양 단독공연 2022.9.3 토 20:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1928&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1928&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 10 Aug 2022 17:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/75874cdf512779ffb79dc799a8c94f9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJing Party 도모도모 무도회 티켓예매 SOICHI YAMAMOTO x Play that music louder Onegai 원우심슨 x NayAna x 영웅대중 2022.08.21 일 / door open 14:00]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Sun, 14 Nov 2021 09:29:01 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(2회차) 합주하는 날 티켓예매 전자양 단독공연 2022.9.3 토 20:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1928&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1928&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 10 Aug 2022 17:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[35,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/75874cdf512779ffb79dc799a8c94f9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전유음무專有陰霧 티켓예매 이아직 x 기나이직 x 피아노 슈게이저 2022.08.20 토 PM 7:00]]></title>
