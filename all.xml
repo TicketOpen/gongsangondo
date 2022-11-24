@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 17:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양창근 단독공연 티켓예매 물결2022.12.9 금 PM 8:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1950&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1950&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/689ae1cf140144c7b6cc5784992675ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🏓Pingpong Club🏓 예매마감/현매가능!! ⛰SAT, 19 NOV 2022, Wonju!⛰ 사뮈, 웨스턴 카잇, 김새녘, 온더달 해파, 김오키 새턴발라드  WACKIDS, Sitch 11/19 토 @원주 아름드리 & 레코드어데이가 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1952&amp;cate_no=55&amp;display_group=1</link>
@@ -14,14 +22,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[55,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/467866d51fb75c584713dabd144dec1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양창근 단독공연 티켓예매 물결2022.11.5 토 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1950&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1950&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[44,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202210/f6cdd6056624a3be244c92aa3f576ff5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Curated Now vol.1 티켓예매서울매직클럽, 콘트라젤리, 콩코드 Seoul Magic Club, Kontrajelly, Concorde  2022.11.06 일 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
