@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 17:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 05:36:51 GMT</pubDate>
             <content:encoded><![CDATA[40,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/8c2fdf3301a31ad17b00805777c4e26d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Primary Colors!! Vol.2 티켓예매콘트라젤리, 더 보울스, ABTB Kontrajelly, The Bowls, ABTB  2023.01.15 일 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1985&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1985&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Dec 2022 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[33,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/1bc97bb5aaab443d7b87ad119d86b29a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양창근 단독공연 티켓예매 물결2022.12.9 금 PM 8:00 (공상온도 스토어 ─ 티켓)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201908/0ce382444eede325478db8c3c6333e4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​주기율표 티켓예매​최성호 특이점 단독공연2019.08.16 금 PM 8:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1125&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1125&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201908/3ba648b6331637074cd8ac03faac49b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김새녘 김새녘 1st EP 새빛깔 CD 음반 (공상온도 스토어 ─ 음반)]]></title>
