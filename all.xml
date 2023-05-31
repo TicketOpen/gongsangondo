@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 05:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 17:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영차영차  season 01 회원권 by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2054&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2054&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 31 May 2023 17:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[50,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202305/194e7976dc9cf589313838cbbf591618.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[dal 단독공연  티켓예매 바늘 2023.5.27 토 PM 7:00 예매마감 / 현매가능 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2038&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2038&amp;cate_no=55&amp;display_group=1</guid>
@@ -384,14 +392,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201911/ed2fe16dd282fda0140944bb20c0f2d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Colors of Blue 예매마감, 현매가능굴갱, 블루램, 카프2019.11.10 일 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1202&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1202&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[18,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201910/04ec47e082cba3f6f4c03972a8bf657d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Guinneissik 기나이직 정규 2집 'Postwar' USB (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1937&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1937&amp;cate_no=60&amp;display_group=1</guid>
@@ -502,14 +502,6 @@
             <pubDate>Wed, 16 Nov 2022 17:54:06 GMT</pubDate>
             <content:encoded><![CDATA[22,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202107/22ff2a1364c828c27d9bd7f53876e6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로우 행잉 프루츠 Low Hanging Fruits EP I Just Wanna Be Better CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1756&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1756&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/124303bafb53a56d69cd5282b36c52dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[{ 5차 재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ (CD + POSTER 합본) (공상온도 스토어 ─ 음반)]]></title>
@@ -774,6 +766,14 @@
             <pubDate>Wed, 11 Jan 2023 17:40:39 GMT</pubDate>
             <content:encoded><![CDATA[19,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/33f4194c0f314c3605e9a69a687ba543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉은 눈 문소문 정규 1집 CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 31 May 2023 17:37:36 GMT</pubDate>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/16418a694f44988bf219439243947d10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
