@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 17:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 17:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
             <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영차영차  season 01 회원권 by EHEHE]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2054&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2054&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 31 May 2023 17:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[50,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202305/194e7976dc9cf589313838cbbf591618.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Fake Product #1 예매마감/현매가능 전파사, 녹이녹, 블랙매직클럽 Zeonpasa, Nok E Nok,  Black Magic Club 2023.4.22 토 PM 6:00]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영차영차  season 01 회원권 by EHEHE]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2054&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2054&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 31 May 2023 17:37:23 GMT</pubDate>
-            <content:encoded><![CDATA[50,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202305/194e7976dc9cf589313838cbbf591618.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[dal 단독공연  티켓예매 바늘 2023.5.27 토 PM 7:00 예매마감 / 현매가능]]></title>
