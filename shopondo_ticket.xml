@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 05:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 17:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.02. 김정훈 x 87dance 2023.7.9 일 PM 5:00  by EHEHE]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2061&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2061&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sun, 11 Jun 2023 17:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[55,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202306/ba2a127c25a1c3f9d2aa6dd23c704146.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[일반예매]  영차영차 시즌01 Step.02.  김정훈 x 87dance 2023.7.9 일 PM 5:00 by EHEHE]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2059&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2059&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200102/70ed795706c145505c03a7c6b0fe8516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 "커피도 리필이 되나요?" 티켓예매12/4(수) PM 8:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1188&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1188&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201910/77ce66428fcccb709722920ad69ab0e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
