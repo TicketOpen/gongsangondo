@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[일반예매]  영차영차 시즌01 Step.01.   문없는집 x 공중그늘 2023.6.24 토 PM 6:00 by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2056&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2056&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Jun 2023 17:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[55,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202306/611bc421bd2585b69e6aa6b5eb97a276.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[일반예매]  영차영차 시즌01 Step.02.  김정훈 x 87dance 2023.7.9 일 PM 5:00 by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2059&amp;cate_no=55&amp;display_group=1</link>
@@ -158,6 +150,14 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[35,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2740bae7cac792e51b747e2cc14e8e46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[일반예매]  영차영차 시즌01 Step.01.   문없는집 x 공중그늘 2023.6.24 토 PM 6:00 by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2056&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2056&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 05 Jun 2023 17:36:24 GMT</pubDate>
+            <content:encoded><![CDATA[55,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202306/611bc421bd2585b69e6aa6b5eb97a276.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[87 DANCE X BAND NAH팔칠댄스 X 나상현씨밴드 티켓 예매2021.03.13 토 PM 6:30 (공상온도 스토어 ─ 티켓)]]></title>
