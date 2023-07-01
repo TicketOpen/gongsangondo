@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 17:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 05:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공생공상  매주 수요일zzzz 2023.7.19 일 PM 8:00 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 01 Jul 2023 05:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[dal 단독공연  티켓예매 바늘 2023.5.27 토 PM 7:00 예매마감 / 현매가능 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2038&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2038&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200102/70ed795706c145505c03a7c6b0fe8516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 "커피도 리필이 되나요?" 티켓예매12/4(수) PM 8:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1188&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1188&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 05:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201910/77ce66428fcccb709722920ad69ab0e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신해경 정규 1집 '속꿈, 속꿈' 재발매 한정판 CD/음반 (공상온도 스토어 ─ 음반)]]></title>
