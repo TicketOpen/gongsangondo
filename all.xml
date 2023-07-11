@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 05:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 17:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[공상온도 재생 후원 기부 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[10,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[공생공상 티켓예매 SOMETIMES, WE NEED FANTASIES. 2023.07.19-10.11 매주 수요일 PM 8:00 33팀의 유무료 공연 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</link>
@@ -22,6 +14,14 @@
             <pubDate>Sat, 01 Jul 2023 05:36:35 GMT</pubDate>
             <content:encoded><![CDATA[30,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202307/c2b423d12903fcdf2d0ee86ec8b3aa60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공상온도 재생 후원 기부 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[10,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.02. 김정훈 x 87dance 2023.7.9 일 PM 5:00  by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
