@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 05:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.03. off the menu x 나상현씨밴드 2023.9.1 금 PM 8:00  by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2091&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2091&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Aug 2023 17:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[55,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202308/128265cb631caf5e4531f5e872170903.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[공생공상 티켓예매 SOMETIMES, WE NEED FANTASIES. 2023.07.19-10.11 매주 수요일 PM 8:00 33팀의 유무료 공연 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</link>
@@ -390,6 +382,14 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202007/b1d3e50b80024c20160b9e457445656f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUNRISE 예매마감/현매가능민열, 리나, 예람2020.02.09 일 PM 7:30 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1294&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1294&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Thu, 10 Aug 2023 17:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200126/be0c9d26acbdf2d9798f642cb4745af0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Guinneissik 기나이직 정규 2집 'Postwar' USB (공상온도 스토어 ─ 음반)]]></title>
