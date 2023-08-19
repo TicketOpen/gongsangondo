@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 17:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 05:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매 요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Aug 2023 05:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202308/1ffd46f5596f4e4336269c6b143a345c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.03. off the menu x 나상현씨밴드 2023.9.1 금 PM 8:00  by EHEHE]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2091&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2091&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 18 Aug 2023 17:36:41 GMT</pubDate>
             <content:encoded><![CDATA[30,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202009/5e62353e03a608f3d88b567f727f859b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日蝕]_eclipse | g1nger x honk 티켓 예매2020.08.14 금 PM 8:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1520&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1520&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Aug 2023 17:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[25,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202008/299f8c3d7403583555a08d79eb26d08e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
