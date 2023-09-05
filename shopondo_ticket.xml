@@ -4,9 +4,17 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 17:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.05. evenif x 잭킹콩 2023.9.24 일 PM 5:00  by EHEHE]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2100&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2100&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sun, 03 Sep 2023 17:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[55,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/c41df5a31f5a075e606bd4398ca975e0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[공생공상 티켓예매 SOMETIMES, WE NEED FANTASIES. 2023.07.19-10.11 매주 수요일 PM 8:00 33팀의 유무료 공연]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</link>
@@ -294,14 +302,6 @@
             <pubDate>Sun, 03 Sep 2023 17:36:07 GMT</pubDate>
             <content:encoded><![CDATA[55,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/1e7e8e782dc66c17cb5a32061d64d625.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.05. evenif x 잭킹콩 2023.9.24 일 PM 5:00  by EHEHE]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2100&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2100&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 03 Sep 2023 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[55,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/c41df5a31f5a075e606bd4398ca975e0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.03. off the menu x 나상현씨밴드 2023.9.1 금 PM 8:00  by EHEHE]]></title>
