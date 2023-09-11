@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 17:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,22 @@
             <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
             <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선예매] 영차영차 회원  영차영차 시즌01 Step.06. Low Hanging Fruits x 전자양 2023.10.15 일 PM 5:00  by EHEHE]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2103&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2103&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 17:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[55,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/384b22846ac57bac689dcbafd6bc48cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[일반예매] 영차영차 시즌01 Step.06.  Low Hanging Fruits x 전자양 2023.10.15 일 PM 5:00  by EHEHE]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2104&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2104&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 17:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[55,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/c9ac9a77e3862908b7a2105ab0336820.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일반예매] 영차영차 시즌01 Step.04.  고고학 x 해서웨이 2023.9.9 토 PM 6:00  by EHEHE]]></title>
@@ -374,22 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[45,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[45,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2b7307a7550e607dc83b6d6d20eda10b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WEAVE.WAVE 티켓예매 western kite x onthedal 웨스턴 카잇 x 온더달 2021.11.27 토 PM 7:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[44,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
