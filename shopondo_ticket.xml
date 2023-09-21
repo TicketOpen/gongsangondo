@@ -4,16 +4,16 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 17:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[티켓예매] 양   해  양창근, 해파 합동공연2023. 9. 22 금 PM 8:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2102&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2102&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Sep 2023 17:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[25,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/ae8eb374957a01cbc56cf14812dc996f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[일반예매] 영차영차 시즌01 Step.06.  Low Hanging Fruits x 전자양 2023.10.15 일 PM 5:00  by EHEHE]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2104&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2104&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Sep 2023 17:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[55,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/c9ac9a77e3862908b7a2105ab0336820.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일반예매] 영차영차 시즌01 Step.05.  evenif x 잭킹콩 2023.9.24 일 PM 5:00  by EHEHE]]></title>
@@ -360,14 +360,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[일반예매] 영차영차 시즌01 Step.06.  Low Hanging Fruits x 전자양 2023.10.15 일 PM 5:00  by EHEHE]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2104&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2104&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Sep 2023 17:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[55,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/c9ac9a77e3862908b7a2105ab0336820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전유음무專有陰霧 티켓예매 이아직 x 기나이직 x 피아노 슈게이저 2022.08.20 토 PM 7:00]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Wed, 13 Sep 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[45,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2b7307a7550e607dc83b6d6d20eda10b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WEAVE.WAVE 티켓예매 western kite x onthedal 웨스턴 카잇 x 온더달 2021.11.27 토 PM 7:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Sep 2023 17:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[44,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
