@@ -4,17 +4,9 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 05:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 17:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[일반예매] 영차영차 시즌01 Step.05.  evenif x 잭킹콩 2023.9.24 일 PM 5:00  by EHEHE]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2101&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2101&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 03 Sep 2023 17:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[55,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202309/1e7e8e782dc66c17cb5a32061d64d625.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[공생공상 티켓예매 SOMETIMES, WE NEED FANTASIES. 2023.07.19-10.11 매주 수요일 PM 8:00 33팀의 유무료 공연]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</link>
@@ -390,6 +382,14 @@
             <pubDate>Thu, 21 Sep 2023 17:36:41 GMT</pubDate>
             <content:encoded><![CDATA[44,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[​SERIAL POST-ROCK #2 티켓예매​데이드림x코토바x사막꽃2020.9.19 토 PM 6:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1535&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1535&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Sep 2023 17:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202009/5e62353e03a608f3d88b567f727f859b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
