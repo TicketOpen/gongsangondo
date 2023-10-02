@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 05:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 17:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공연예매]  Sleep Like A Pillow  교정, 초록바다, 뉴링크 SAT, 21 Oct 2023 티켓오픈 : 10월 6일 금 오후8시]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2113&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2113&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 02 Oct 2023 17:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202310/2f31de22e707b8b1ba1b73ae4a45a24b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예매마감/현매가능] 🏓PING-PONG : PUNKY SHOWER🏓  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 21 Sep 2023 17:36:41 GMT</pubDate>
             <content:encoded><![CDATA[44,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​SERIAL POST-ROCK #2 티켓예매​데이드림x코토바x사막꽃2020.9.19 토 PM 6:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1535&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1535&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sat, 23 Sep 2023 17:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202009/5e62353e03a608f3d88b567f727f859b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
