@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 17:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 05:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202308/4227f33d4936f571f93444b25046a0de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공생공상 예매마감/현매가능 SOMETIMES, WE NEED FANTASIES. 2023.07.19-10.11 매주 수요일 PM 8:00 35팀의 유무료 공연 (공상온도 스토어 ─ 티켓)]]></title>
+            <title><![CDATA[공생공상 공연예매 SOMETIMES, WE NEED FANTASIES. 2023.07.19-10.11 매주 수요일 PM 8:00 35팀의 유무료 공연 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2067&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Sat, 01 Jul 2023 05:36:35 GMT</pubDate>
@@ -296,7 +296,7 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예매마감/현매가능] 🏓PING-PONG : PUNKY SHOWER🏓  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB (공상온도 스토어 ─ 티켓)]]></title>
+            <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Sun, 10 Sep 2023 05:36:13 GMT</pubDate>
