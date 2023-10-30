@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 17:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
             <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티켓예매]  파열음 낭독회 PLOSIVE READING SESSION  포그, 리니어, 릴리 잇 머신 SAT, 18 Nov 2023 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2121&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2121&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sun, 29 Oct 2023 17:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202310/491b4875a0fe0a23c96953a9ef21bacf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일반예매] 영차영차 시즌01 Step.04.  고고학 x 해서웨이 2023.9.9 토 PM 6:00  by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티켓예매]  파열음 낭독회 PLOSIVE READING SESSION  포그, 리니어, 릴리 잇 머신 SAT, 18 Nov 2023 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2121&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2121&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sun, 29 Oct 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202310/491b4875a0fe0a23c96953a9ef21bacf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB (공상온도 스토어 ─ 티켓)]]></title>
