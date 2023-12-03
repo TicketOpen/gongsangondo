@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 05:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 17:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[티켓예매]  ❄️ 녹두 연말 단독공연 🎄   FRI, 22 Dec 2023 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2134&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2134&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sun, 03 Dec 2023 17:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[33,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202312/6760414f6c8056dd948bb84b4d09d196.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 21 Sep 2023 17:36:41 GMT</pubDate>
             <content:encoded><![CDATA[44,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[​SERIAL POST-ROCK #2 티켓예매​데이드림x코토바x사막꽃2020.9.19 토 PM 6:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1535&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1535&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sat, 18 Nov 2023 05:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202009/5e62353e03a608f3d88b567f727f859b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코토바 cotoba 4th EP ‘Humanoid operational’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
