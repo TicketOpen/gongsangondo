@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 17:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 05:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202312/6760414f6c8056dd948bb84b4d09d196.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[티켓예매]  ⚡️오늘은 시끄러웠으면 좋겠어. 근데 조금은 귀엽게⚡️   청요일, 태평시간, 행간소음 SAT, 16 Dec 2023 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2129&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2129&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Nov 2023 17:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202311/01754f772d85b3df84d37e14466bc008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[공상온도 재생 후원 기부 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
             <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예매마감/현매가능]  ⚡️오늘은 시끄러웠으면 좋겠어. 근데 조금은 귀엽게⚡️   청요일, 태평시간, 행간소음 SAT, 16 Dec 2023 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2129&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2129&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Nov 2023 17:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202311/01754f772d85b3df84d37e14466bc008.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일반예매] 영차영차 시즌01 Step.04.  고고학 x 해서웨이 2023.9.9 토 PM 6:00  by EHEHE (공상온도 스토어 ─ 티켓)]]></title>
