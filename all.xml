@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 17:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 05:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,7 +296,7 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공연예매]  🐉 집에만 있기는 그래서 Vol.1 🐲   숨비, 오드리노, 향니 SOOMBI & AUDREY NO & HYANGNI FRI, 26 Jan 2024 (공상온도 스토어 ─ 티켓)]]></title>
+            <title><![CDATA[[공연예매]   집에만 있기는 그래서 Vol.1 🏠   숨비, 오드리노, 향니 SOOMBI & AUDREY NO & HYANGNI FRI, 26 Jan 2024 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Sat, 06 Jan 2024 17:35:52 GMT</pubDate>
