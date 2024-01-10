@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 05:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 17:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
             <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공연예매]   집에만 있기는 그래서 Vol.1 🏠   숨비, 오드리노, 향니 SOOMBI & AUDREY NO & HYANGNI FRI, 26 Jan 2024 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Sat, 06 Jan 2024 17:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202401/45978665cc4507f4173ae1a69a7cd3aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예매마감/현매가능]  ⚡️오늘은 시끄러웠으면 좋겠어. 근데 조금은 귀엽게⚡️   청요일, 태평시간, 행간소음 SAT, 16 Dec 2023 (공상온도 스토어 ─ 티켓)]]></title>
@@ -294,14 +302,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공연예매]   집에만 있기는 그래서 Vol.1 🏠   숨비, 오드리노, 향니 SOOMBI & AUDREY NO & HYANGNI FRI, 26 Jan 2024 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sat, 06 Jan 2024 17:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202401/45978665cc4507f4173ae1a69a7cd3aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB (공상온도 스토어 ─ 티켓)]]></title>
