@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 17:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,12 +296,12 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예매마감/현매가능]   집에만 있기는 그래서 Vol.1 🏠   숨비, 오드리노, 향니 SOOMBI & AUDREY NO & HYANGNI FRI, 26 Jan 2024 (공상온도 스토어 ─ 티켓)]]></title>
+            <title><![CDATA[[공연예매]   봄방학 대잔치 🌿  향니, 비디오로즈, 팻햄스터&캉뉴  HYANGNI, VIDEOROSE, FAT HAMSTER&KANG NEW FRI, 23 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Mon, 05 Feb 2024 05:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202401/45978665cc4507f4173ae1a69a7cd3aa.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[25,000 won]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB (공상온도 스토어 ─ 티켓)]]></title>
