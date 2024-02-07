@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 05:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 17:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공연예매]   Stunt Double   리니어, 보이어  Renier, Voyeur SAT, 24 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2151&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2151&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Feb 2024 17:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202402/5036adec9ba0cfcaa6ea4205be7c6330.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[공연예매]   봄방학 대잔치 🌿  향니, 비디오로즈, 팻햄스터&캉뉴  HYANGNI, VIDEOROSE, FAT HAMSTER&KANG NEW FRI, 23 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2147&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 13 Sep 2023 17:36:23 GMT</pubDate>
             <content:encoded><![CDATA[45,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2b7307a7550e607dc83b6d6d20eda10b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WEAVE.WAVE 티켓예매 western kite x onthedal 웨스턴 카잇 x 온더달 2021.11.27 토 PM 7:00 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1814&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Sep 2023 17:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[44,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/e11a3d1358c9551fe6973397890dab59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코토바 cotoba 4th EP ‘Humanoid operational’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
