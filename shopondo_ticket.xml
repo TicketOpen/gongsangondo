@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 05:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 17:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201709/621_shop1_468753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공연예매]   키스는 인사지   이지구 정규1집 발매 공연 THU, 29 Feb 2024]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2157&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2157&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Feb 2024 17:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202402/18f20fb14cfdf9a05db963f2d421c612.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🏓PING-PONG : PUNKY SHOWER🏓 티켓예매  요정, 세일러허니문 SUN, 10 SEP 2023 by PINGPONG CLUB]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2095&amp;cate_no=55&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 17:53:53 GMT</pubDate>
             <content:encoded><![CDATA[45,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Youth out of the city 티켓예매 Dabda x hathaw9y 다브다 x 해서웨이 2022.01.22 토 PM 6:00]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1833&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Sep 2023 17:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[45,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2b7307a7550e607dc83b6d6d20eda10b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
