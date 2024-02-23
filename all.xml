@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 05:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 17:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[공연예매]   Stunt Double   리니어, 보이어  Renier, Voyeur SAT, 24 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2151&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2151&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Feb 2024 17:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[30,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202402/5036adec9ba0cfcaa6ea4205be7c6330.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[공상온도 재생 후원 기부 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[10,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공연예매]   키스는 인사지   이지구 정규1집 발매 공연 THU, 29 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
@@ -24,12 +24,12 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202402/18f20fb14cfdf9a05db963f2d421c612.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공상온도 재생 후원 기부 (공상온도 스토어 ─ 티켓)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2027&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Apr 2023 05:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[10,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202304/76a3ad95b7e8325cbbdca268b6d18052.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예매마감/현매가능]   Stunt Double   리니어, 보이어  Renier, Voyeur SAT, 24 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2151&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2151&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Feb 2024 17:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202402/5036adec9ba0cfcaa6ea4205be7c6330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예매마감/현매가능]   봄방학 대잔치 🌸  향니, 비디오로즈, 팻햄스터 & 캉뉴  Hyangni, VideoRose, Fat Hamster & KANG New FRI, 23 Feb 2024 (공상온도 스토어 ─ 티켓)]]></title>
