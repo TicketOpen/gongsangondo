@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 17:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 05:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,20 +376,20 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/0fb76626aecd3f8d36761e00631e7f74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공연예매]   죽음도 절망도 싸움도 없는   손서정 단독공연 SUN, 24 Mar 2024]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2162&amp;cate_no=55&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2162&amp;cate_no=55&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Mar 2024 17:36:57 GMT</pubDate>
-            <content:encoded><![CDATA[33,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202403/af63e4b89beafbb57c00edce3e11c110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전유음무專有陰霧 티켓예매 이아직 x 기나이직 x 피아노 슈게이저 2022.08.20 토 PM 7:00]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1922&amp;cate_no=55&amp;display_group=1</guid>
             <pubDate>Sat, 23 Mar 2024 05:36:36 GMT</pubDate>
             <content:encoded><![CDATA[25,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/c4a7810e975dd807c93dfc28f2157edd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Youth from firework *Seoul 티켓예매 Dabda x Soumbalgwang 다브다 x 소음발광 2022.07.09 토 PM 6:00]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1906&amp;cate_no=55&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Mar 2024 05:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[45,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202206/6fd8bc039d692c7afe0e5ee5e97da22f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
